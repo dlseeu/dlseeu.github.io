@@ -35,8 +35,6 @@ categories: jekyll update
 
 Github Pages这个功能开启非常简单，就是在Github的账户下创建一个特定的仓库，名字为「账户.github.io」，比如我的账户是dlseeu，仓库就是dlseeu.github.io
 
-![]({{ site.url }}/assets/images/github-pages.png)
-
 如果你在dlseeu.github.io的目录下放一个index.html，那么现在你访问www.dlseeu.github.io就可以看到index.html的内容了。但是我们计划使用jekyll来生成静态网站，所以就不纯手工编写网页了。
 
 ## 3. 设置DNS解析路径
