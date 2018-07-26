@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "使用github搭建你的个人网站"
+title:  "使用Github搭建你的个人网站"
 date:   2018-07-25 14:55:59 +0800
-categories: jekyll update
+category: 网站建设
 ---
 
 # 背景
