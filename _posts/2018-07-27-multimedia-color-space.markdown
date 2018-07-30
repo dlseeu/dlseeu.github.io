@@ -8,7 +8,7 @@ category: 多媒体开发
 ## 从颜色说起
 
 色彩，也称为颜色。既然要说色彩空间，就要先了解什么是颜色。
-![](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/%E8%89%B2%E5%BD%A9%E6%A8%A1%E5%9E%8B-RGB.png)
+![](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/%E9%A2%9C%E8%89%B2.png)
 
 在我们自然界中，我们发现按照颜色产生机制的不同，可以归类为两种，一类是**光源色**，这类物体本生是主发射光的，比如太阳，灯泡，显示器; 另外一类是**表面色**，这类物体本身不发光，但是他们吸收光波，剩余的光波被反射后就决定了物体的颜色，比如课本，家具等。
 
@@ -53,7 +53,7 @@ YUV最原始的数据就是YUV444, 通过水平抽样一次就是YUV422, 如果�
 
 平面格式（planar formats）是指每Y分量，U分量和V分量都是以独立的平面组织的，也就是说所有的U分量必须在Y分量后面，而V分量在所有的U分量后面，此一格式适用于采样（subsample）。平面格式（planar format）有I420（4:2:0）、YV12、IYUV等
 
-![存储格式](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/%E8%89%B2%E5%BD%A9%E6%A8%A1%E5%9E%8B-RGB.png)
+![存储格式](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/YUV-%E5%AD%98%E5%82%A8%E6%A0%BC%E5%BC%8F.png)
 
 ## YUV和RGB的转换
 ```
