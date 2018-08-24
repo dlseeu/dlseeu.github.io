@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "周记-2018.08.24"
-date:   2018-08-24 09:00:00 +0800
+date:   2018-08-24 17:00:00 +0800
 category: 周记
 ---
 ## 新闻
@@ -23,8 +23,6 @@ category: 周记
 强大的国内消费能力一直是驱动中国发展的三驾马车之一，但是目前看来中国的消费者，特别是中产阶级，消费正在升级，放弃牛油果，使用共享单车代替打的，不在频繁约会，甚至放弃要孩子的计划，即使国家一直在鼓励生育。
 
 
-
-
 ## 工具
 
 #### [1.taskbook](https://github.com/klauscfhq/taskbook)
@@ -36,8 +34,17 @@ category: 周记
 
 ## 教程
 
+### [1.学习外语](http://www.duolingo.cn)
+
+通过场景问答提高自己的外语水平，有网页和APP提供
+
 
 ## 资源
+
+### [1.鸟类的叫声](https://aiexperiments.withgoogle.com/bird-sounds)
+ 
+在Google Creative Lab的朋友的帮助下，Kyle McDonald, Manny Tan, Yotam Mann对鸟类的声音进行了可视化分类，让类似的声音放在一起
+
 
 ## 文摘
 
@@ -89,7 +96,6 @@ category: 周记
     2. 重新评估
 
 知道优秀程序员解决问题的思路了，如何获得技能呢？那就是不断的**练习**
-
 
 
 ## 本周图片
