@@ -1,35 +1,43 @@
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-  <!--[if lte IE 9]><meta http-equiv="refresh" content="0;url={{ "/ie.html" | prepend: site.baseurl }}"><![endif]-->
+<meta charset="utf-8">
 
-  <meta name="author" content="{{ site.author }}">
-  {% if page.keywords %}
-    <meta name="keywords" content="{{ page.keywords }}">
-  {% endif %}
+{% include seo.html %}
 
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600|Droid+Sans+Mono' rel='stylesheet' type='text/css'>
-  <link rel="shortcut icon" href="{{ site.favicon }}" />
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  {% seo %}
-  {% feed_meta %}
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
-  <script src="{{ "/assets/js/prefixfree.js" | prepend: site.baseurl }}"></script>
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+<!--[if lte IE 9]>
   <style>
-  table{
-    border-left:1px solid #000000;border-top:1px solid #000000;
-    width: 100%;
-    word-wrap:break-word; word-break:break-all;
-  }
-  table th{
-  text-align:center;
-  }
-  table th,td{
-    border-right:1px solid #000000;border-bottom:1px solid #000000;
-  }
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
   </style>
+<![endif]-->
 
-</head>
+{% if site.head_scripts %}
+  {% for script in site.head_scripts %}
+    {% if script contains "://" %}
+      {% capture script_path %}{{ script }}{% endcapture %}
+    {% else %}
+      {% capture script_path %}{{ script | relative_url }}{% endcapture %}
+    {% endif %}
+    <script src="{{ script_path }}"></script>
+  {% endfor %}
+{% endif %}

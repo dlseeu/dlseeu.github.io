@@ -1,9 +1,11 @@
 ---
-layout: post
 title:  "使用Github搭建你的个人网站"
 date:   2018-07-25 14:55:59 +0800
-comments: true
-category: 网站建设
+category: Website
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 # 背景

@@ -1,8 +1,12 @@
 ---
-layout: post
 title:  "常见多媒体文件格式介绍"
 date:   2018-07-26 11:55:59 +0800
-category: 多媒体开发
+category: multimedia
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+
 ---
 
 ## 几个问题
