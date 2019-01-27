@@ -18,7 +18,7 @@ category: Tools
 
 > jobs OR gates
 
-> jobs | gates
+> jobs \| gates
 
 ### 3. AND
 
