@@ -1,0 +1,17 @@
+---
+title:  "每周分享第8期"
+date:   2019-02-01 09:00:00 +0800
+category: WeeklyShare
+
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+
+---
+
+
+## 资源
+
+### 1.[统计概率入门](https://seeing-theory.brown.edu/cn.html)
+
+由Daniel Kunin在布朗大学读本科的时候开始制作，致力于用数据可视化让统计概念更容易理解。
