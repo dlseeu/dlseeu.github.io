@@ -1,14 +1,14 @@
 ---
 
-title:  "【翻译】The Now Habit"
+title:  "拖延症患者治疗指南"
 date:   2018-12-28 10:00:00 +0800
-category: Education
+category: 思维
 
 ---
 
-![](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/Procrastination.jpg)
- 
 「The Now Habit」是由Neil Fiore所著，是一本关于如何理解和克服拖延症的书。
+
+![](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/Procrastination.jpg)
 
 「拖延症」是一种伴随着对于一项任务开始或者技术的恐惧的机制。严格意义上来讲，没有人是懒惰的，即时你没有开始小说的下个章节，依然在完成大学的课程。
 
@@ -62,6 +62,8 @@ category: Education
 
 对于近期未来无法开始或达成的目标要放弃，改变自己的计划，并在后来的重新规划中才重新加入这个放弃的目标，而不是把那个目标弃之不理。
 
+
+* * *
 
 > 翻译原文地址:[https://www.2uo.de/the-now-habit](https://www.2uo.de/the-now-habit)
 

@@ -1,7 +1,7 @@
 ---
 title:  "历史名人夫妻合照"
 date:   2018-11-24 20:00:00 +0800
-category: Photos
+category: 历史
 
 gallery:
   - url: https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/2018-11-24-%E5%A4%AB%E5%A6%BB%E5%90%88%E5%BD%B1/1.jpg

@@ -1,10 +1,10 @@
 ---
-title:  "每周分享第8期"
-date:   2019-02-01 09:00:00 +0800
-category: WeeklyShare
+title:  "Exploration.2019.03.01"
+date:   2019-03-01 09:00:00 +0800
+category: 阅读
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 
 ---

@@ -2,10 +2,10 @@
 
 title:  "RTMP-V1.0协议规范讲解"
 date:   2018-10-29 22:00:00 +0800
-category: MultiMedia
+category: 多媒体
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 
 ---

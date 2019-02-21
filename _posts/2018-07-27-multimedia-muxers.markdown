@@ -1,10 +1,10 @@
 ---
-title:  "常见多媒体文件格式介绍"
+title:  "常见多媒体文件格式"
 date:   2018-07-26 11:55:59 +0800
-category: multimedia
+category: 多媒体
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 
 ---

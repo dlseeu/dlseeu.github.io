@@ -1,10 +1,10 @@
 ---
-title:  "【翻译】压力山大下的大脑"
+title:  "压力下的大脑"
 date:   2018-10-29 20:30:00 +0800
-category: Thinking
+category: 思维
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 
 ---
@@ -54,6 +54,8 @@ hippocampus这个区域，主要是用来形成新的记忆，对皮质醇非常
 我们不能控制环境中所有的因素，但是我们可以控制自己面对他们反应。你越是感到收到威胁，你就越会感觉亚历山大。如果你愚见了工作危机或者女朋友将要踹了你，要看的更远点。这些事情在将来回头看的时候也许只是一个屁，特别是在旅行旁边还有你的哥们的时候。
 
 
+
+* * *
 
 > 参考：https://www.psychologytoday.com/intl/blog/you-illuminated/201104/under-pressure-your-brain-conflict
 

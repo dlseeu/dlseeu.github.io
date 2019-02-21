@@ -1,10 +1,10 @@
 ---
-title:  "每周分享第7期"
+title:  "Exploration.2018.12.02"
 date:   2018-12-02 13:00:00 +0800
-category: WeeklyShare
+category: 阅读
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 
 ---

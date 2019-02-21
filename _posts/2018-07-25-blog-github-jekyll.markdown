@@ -1,37 +1,37 @@
 ---
-title:  "使用Github搭建你的个人网站"
+title:  "Github搭建个人网站"
 date:   2018-07-25 14:55:59 +0800
-category: Website
+category: 网站网页
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "目录"
 toc_icon: "cog"
 ---
 
-# 背景
-
-作为码农一族，能拥有一个自己的个人网站一直很多人的梦想，多年前，搭建一个网站需要很多条件，要买域名，要买VPS，要备案，要...
-
-自从Github Pages功能发布后，几乎可以免费搭建和拥有自己的网站（如果你想定义自己的私有域名的话，一毛钱都不需要）
+拥有一个独立域名的博客，是很多IT人员最初的梦想，虽然现在有wordpress等博客框架，但是我们想要一个更加简单和管理，并且可自定义的博客，最重要的是成本要低，所以我们使用Github Pages +独立域名方案。
 
 # 目标
 
-* 独立域名
-* 成本和难度最小
-* 维护容易
+* 独立博客域名
+* 成本和难度小
+* 支持Makrdown
+* 支持图片展示
 
 # 实现
 
 下面就以我自己的www.dlseeu.com网站为例，说明如何完成这个网站的搭建。
 
 ## 0. 购买域名
+
 在阿里云注册账户，并购买他们的域名产品。我购买的是dlseeu.cn这个域名，而且进行了实名验证（如果不验证，将无法正常使用）
+
 ![]({{ site.url }}/assets/images/aliyun-domain-dlseeu.png)
 
 
 ## 1. 注册Github
 
 在Github注册账户，这个账户自己定义，我这里同样也使用了dlseeu这个用户名
+
 ![]({{ site.url }}/assets/images/github-account.png)
 
 ## 2. 创建Github Pages
@@ -45,9 +45,11 @@ Github Pages这个功能开启非常简单，就是在Github的账户下创建�
 现在我们来设置DNS解析路径，目的是访问dlseeu.cn或者dlseeu.github.io都是访问的同一个网站，浏览器上显示的地址均为dlseeu.cn
 
 * 设置Github Pages的参数
+
 ![]({{ site.url }}/assets/images/github-pages-custom-url.png)
 
 * 设置阿里云的域名管理中的云DNS解析路径
+
 ![]({{ site.url }}/assets/images/aliyun-dns.png)
 
 * 等待生效（10分钟左右）
