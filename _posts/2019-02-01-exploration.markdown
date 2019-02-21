@@ -1,11 +1,10 @@
 ---
+layout: post
 title:  "Exploration.2019.03.01"
 date:   2019-03-01 09:00:00 +0800
-category: 阅读
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
+author: "Alex"
+tags: 
+    - 阅读
 
 ---
 

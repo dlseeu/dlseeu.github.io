@@ -1,8 +1,10 @@
 ---
-
+layout: post
 title:  "拖延症患者治疗指南"
 date:   2018-12-28 10:00:00 +0800
-category: 思维
+author: "Alex"
+tags: 
+    - 思维
 
 ---
 

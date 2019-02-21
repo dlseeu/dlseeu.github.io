@@ -1,12 +1,10 @@
 ---
+layout: post
 title:  "常见多媒体文件格式"
 date:   2018-07-26 11:55:59 +0800
-category: 多媒体
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
-
+author: "Alex"
+tags:
+    - 多媒体
 ---
 
 ## 几个问题

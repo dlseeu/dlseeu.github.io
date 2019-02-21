@@ -1,12 +1,10 @@
 ---
+layout: post
 title:  "Exploration.2018.08.24"
 date:   2018-08-24 17:00:00 +0800
-category: 阅读
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
-
+author: "Alex"
+tags: 
+    - 阅读
 ---
 ## 新闻
 

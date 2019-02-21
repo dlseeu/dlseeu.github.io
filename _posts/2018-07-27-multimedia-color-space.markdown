@@ -1,12 +1,10 @@
 ---
+layout: post
 title:  "Color Space"
 date:   2018-07-26 11:55:59 +0800
-category: 多媒体
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
-
+author: "Alex"
+tags: 
+    - 多媒体
 ---
 
 作为媒体开发人员，处理图像的时候，不可避免的会接触到色彩空间，理解它的概念对SDK的使用会很有帮助。

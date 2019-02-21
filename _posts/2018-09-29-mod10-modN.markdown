@@ -1,11 +1,10 @@
 ---
+layout: post
 title:  "模10和模N算法"
 date:   2018-09-29 11:55:59 +0800
-category: Alogrithm
-
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+author: "Alex"
+tags: 
+    - Alogrithm
 ---
 
 ## 模10算法

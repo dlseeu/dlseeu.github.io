@@ -1,11 +1,10 @@
 ---
+layout: post
 title:  "Exploration.2018.10.14"
 date:   2018-10-14 22:00:00 +0800
-category: 阅读
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
+author: "Alex"
+tags: 
+    - 阅读
 
 ---
 
@@ -27,7 +26,7 @@ toc_icon: "cog"
 
 ### [4.中国人想造一个假月亮](https://www.theguardian.com/science/2018/oct/17/chinese-city-plans-to-launch-artificial-moon-to-replace-streetlights)
 
-{% include figure image_path="https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/2018-10-14-weekly/fake-moon.jpg" alt="this is a placeholder image" caption="Jiutian Tower illuminated at night with full moon in the background, Chengdu, China. Photograph: Alamy Stock Photo" %}
+![](https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/2018-10-14-weekly/fake-moon.jpg)
 
 中国航天科技集团公司成都研究院计划2020年发射一颗照明卫星，能够拥有相当于月亮的八倍亮度，可以给10-80KM的半径范围的区域提供路灯照明服务。
 

@@ -1,8 +1,10 @@
 ---
-
+layout: post
 title:  "RTMP-V1.0协议规范讲解"
 date:   2018-10-29 22:00:00 +0800
-category: 多媒体
+author: "Alex"
+tags: 
+    -多媒体
 
 toc: true
 toc_label: "目录"

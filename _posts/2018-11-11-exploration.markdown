@@ -1,12 +1,10 @@
 ---
+layout: post
+author: "Alex"
 title:  "Exploration.2018.11.11"
 date:   2018-11-11 22:00:00 +0800
-category: 阅读
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
-
+tags: 
+    - 阅读
 ---
 
 ## 新闻

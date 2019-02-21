@@ -1,11 +1,12 @@
 ---
+layout: post
 title:  "Github搭建个人网站"
-date:   2018-07-25 14:55:59 +0800
-category: 网站网页
+date:   2018-07-25
+author: "Alex"
+header-img: 
+tags:
+    - 网站开发
 
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
 ---
 
 拥有一个独立域名的博客，是很多IT人员最初的梦想，虽然现在有wordpress等博客框架，但是我们想要一个更加简单和管理，并且可自定义的博客，最重要的是成本要低，所以我们使用Github Pages +独立域名方案。

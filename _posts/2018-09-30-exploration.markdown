@@ -1,13 +1,11 @@
 ---
+layout: post
 title:  "Exploration.2018.09.30"
 date:   2018-09-30 08:00:00 +0800
+author: "Alex"
 
-category: 阅读
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
-
+tags: 
+    - 阅读
 ---
 
 ## 新闻

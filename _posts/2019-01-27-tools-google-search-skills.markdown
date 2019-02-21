@@ -1,7 +1,10 @@
 ---
+layout: post
+author: "Alex"
 title:  "Google高阶搜索技巧"
 date:   2019-01-27 09:00:00 +0800
-category: 效率
+tags: 
+    - 效率
 ---
 
 如何更加高效的找到自己想要的东西，Google提供了一些高级搜索操作，通过特定语法来限定搜索条件。

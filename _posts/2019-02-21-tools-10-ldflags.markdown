@@ -1,7 +1,10 @@
 ---
+layout: post
 title:  "10 LDFLAGS I Love"
 date:   2019-02-21 09:00:00 +0800
-category: 编程
+author: "Alex"
+tags: 
+    - 编程
 ---
 
 通过网络收集，筛选出来十个让广大C程序员热爱的LDFLAG

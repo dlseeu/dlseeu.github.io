@@ -1,11 +1,11 @@
 ---
+layout: post
+author: "Alex"
 title:  "给孩子讲故事的最佳方式"
 date:   2018-11-24 10:30:00 +0800
-category: Education
-
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+header-img: 
+tags:
+    - 教育
 
 ---
 

@@ -1,12 +1,10 @@
 ---
+layout: post
 title:  "压力下的大脑"
 date:   2018-10-29 20:30:00 +0800
-category: 思维
-
-toc: true
-toc_label: "目录"
-toc_icon: "cog"
-
+author: "Alex"
+tags: 
+    - 思维
 ---
 
 # 竞争无处不在

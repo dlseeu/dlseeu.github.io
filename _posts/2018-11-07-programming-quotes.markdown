@@ -1,7 +1,10 @@
 ---
+layout: post
+author: "Alex"
 title:  "编程语录"
 date:   2018-11-07 18:00:00 +0800
-category: Programming
+tags: 
+    - 编程
 ---
 
 > There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies. 
