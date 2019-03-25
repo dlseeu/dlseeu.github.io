@@ -3,7 +3,7 @@ layout: post
 title:  "情绪管理"
 date:   2019-03-22 15:00:00 +0800
 author: "Alex"
-header-img: "https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/bg/home-bg.png"
+header-img: "https://dlseeu-website.oss-cn-hangzhou.aliyuncs.com/emotions.png"
 tags: 
     - 思维
 
